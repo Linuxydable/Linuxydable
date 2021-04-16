@@ -1,10 +1,6 @@
 # Linuxydable - Indie Game and Graphics Engine Developer. 🐧
 ### Hello and Welcome to my GitHub profile ! 🎉
 
-<p align="center">
-  <img width="128" height="128" src="https://db5pap001files.storage.live.com/y4mTnkqnQPShKM3IaSftcbnJv-Xrd4cLZQYJba_RHnRliQXHSgveE9J1iwDI9Y0cJgQ8k88HWFE-Rn8FL8JnGvX4O5ctW4QMRlvi44n-57NWa2C5ET_cZu9pH7sl4g7HthxDH2PbqLZS53CwfEpHIkyomlXXdJh-QQ3pRq5NCOIAkPXKEwLDFi5IKbqfUt3OQAaETgTXLikM3p3HUaNJog_EA/LINUX%20Dragon.png?psid=1&width=128&height=128">
-</p>
-
 ## About me
 I'm a indie French developer and I have 23 years old.
 
