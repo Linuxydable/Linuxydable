@@ -1,7 +1,7 @@
 # Linuxydable - Indie Game and Graphics Engine Developer. 🐧
 ### Hello and Welcome to my GitHub profile ! 🎉
 
-![](https://github-readme-stats.vercel.app/api?username=Linuxydable&count_private=true&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=Linuxydable&count_private=true&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxydable&layout=compact&theme=tokyonight)
 
 
 
