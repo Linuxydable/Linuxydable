@@ -1,6 +1,10 @@
 # Linuxydable - Indie Game and Graphics Engine Developer. 🐧
 ### Hello and Welcome to my GitHub profile ! 🎉
 
+![](https://github.com/Linuxydable/github-stats/blob/master/generated/overview.svg) ![](https://github.com/Linuxydable/github-stats/blob/master/generated/languages.svg)
+
+
+
 ## About me
 I'm a indie French developer and I have 23 years old.
 
