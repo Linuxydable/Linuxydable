@@ -7,7 +7,7 @@
 
 
 ## About me
-I'm a indie French developer and I have 24 years old.
+I'm a indie French developer and I have 25 years old.
 
 I like working on Games and Engines.
 I have learned some Graphics API like Direct3D11 and OpenGL.
