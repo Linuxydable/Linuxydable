@@ -1,26 +1,26 @@
 # Linuxydable - Indie Game and Graphics Engine Developer. 🐧
-### Hello and Welcome to my GitHub profile ! 🎉
-
-![](https://github-readme-stats.vercel.app/api?username=Linuxydable&count_private=true&show_icons=true&theme=tokyonight) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Linuxydable&layout=compact&theme=tokyonight)
+### Hello World and Welcome to my GitHub profile ! 🎉
 
 
 
 
 ## About me
-I'm a indie French developer and I have 25 years old.
+I'm a indie French developer with 25 years old.
 
 I like working on Games and Engines.
-I have learned some Graphics API like Direct3D11 and OpenGL.
+I have learned some Graphics API like Direct3D11, Direct3D12, OpenGL and Vulkan.
 
-Now I'm currently working on a Game Engine called [Shattered Engine](https://github.com/Shattered-Devs/ShatteredEngine) and soon will be reworked into the [Rust Programming Language](https://www.rust-lang.org/).
+Now I'm currently working on a Game Engine called "pireneus" for my future company project [Piereneus Studio](https://github.com/Pireneus-Studio).
+This company is specialized about the Game Development, Realtime 3D solutions and Cloud Computing/Gaming.
 
 I'm currently interested with the [bgfx](https://github.com/bkaradzic/bgfx) library for the cross-platform of my Game Engine.
 
 
-Even if I make my own engine I still using some Engines like Unity, Godot and Unreal Engine.
-And I have some great skill on Unity, I can make Custom Render Pipeline, Editor Scripting (Window, Inspector and Graph View) and I'm a DOTS lover !
-You can soon view my DOTS and Project Tiny sample repo for Unity. ^^
+I also use some generalist game engines like Unity, Unreal Engine, GameMaker, XNA, Heaps, etc...
+I have a speciality about graphics rendering and low level programming.
 
-I'm open for Jobs. ✔
+I have acquired some skills on Unity especially with the [Data Oriented Technology Stack (DOTS)](https://unity.com/dots) and the [Scriptable Render Pipeline (SRP)](https://unity.com/srp).
+Some samples and code example are available through my repositories.
 
-Anyway, thank you for viewing my GitHub profile and have a Good Day !
+
+My renderer code is more like : `// Here be dragons 🐲`
