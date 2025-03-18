@@ -4,7 +4,7 @@
 
 
 ### About me
-I'm a indie French developer with 26 years old.
+I'm a indie French developer with 27 years old.
 <br>
 I'm a developer who loves to create and program video games and especially go tinkering in the low level to touch in game engines as well as in rendering engines.
 
